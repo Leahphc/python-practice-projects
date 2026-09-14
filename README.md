@@ -1,4 +1,4 @@
-A collection of Python projects built while learning programming fundamentals and problem-solving.
+# A collection of Python projects built while learning programming fundamentals and problem-solving.
 
 Hello there !\
 This repository holds my programming projects done during the period of stanCode Python course.
